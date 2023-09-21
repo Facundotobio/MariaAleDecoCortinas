@@ -21,7 +21,7 @@ section{
     text-align: center;
     font-family: 'Josefin Sans';
     font-weight: 300;
-    margin-top: 30px; 
+    margin-top: 50px; 
 }
 
 .seccion-texto{
@@ -74,6 +74,14 @@ section{
     font-weight: 300;
     margin-right: 10px;
     margin-top: -70px;
+}
+/* Pasos para la compra */
+
+.atras{
+    display: flex;
+  justify-content: center;
+  margin-right: 650px;
+  margin-top: -150px;
 }
 
 /* Pasos para la compra */
@@ -163,6 +171,25 @@ box-shadow: 0px 1px 5px 1px;
     font-family: 'Josefin Sans';
     font-weight: 600;
     margin-top: 15px;
+}
+
+.btn-info{
+    font-size: 1.2rem;
+    font-family: 'Josefin Sans';
+    font-weight: 300;
+    background-color: #bdbdbd;
+    color: black;
+    border: none;
+}
+
+.btn-info:hover{
+    background-color:#7b7a69;
+    color: white;
+}
+
+.btn.btn-info:active{
+    background-color: black;
+    color: white;
 }
 
 /* FOOTER*/
