@@ -21,7 +21,7 @@ section{
     text-align: center;
     font-family: 'Josefin Sans';
     font-weight: 300;
-    margin-top: 50px; 
+    margin-top: 30px; 
 }
 
 .seccion-texto{
@@ -78,9 +78,10 @@ section{
 /* Pasos para la compra */
 
 .atras{
-    display: inline-flex;
+    display: flex;
   justify-content: center;
-  margin-right: 20px;
+  margin: 20px;
+  margin-top: 100px;
 }
 
 /* Pasos para la compra */
