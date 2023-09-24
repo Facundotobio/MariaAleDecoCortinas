@@ -285,8 +285,9 @@ margin: 0 0 20px 0;
      }
 
     .seccion-titulo{
-        font-size: 1.8rem;
+        font-size: 1.5rem;
         margin-top: 0px;
+        padding: 5px;
     }
 
     .seccion-texto{
