@@ -107,7 +107,7 @@ margin-bottom: 130px;
     font-size: 1.3rem;
 }
 
-.btn.btn-primaryhover{
+.btn.btn-primary:hover{
     background-color:#7b7a69;
     color: white;
 }
@@ -302,30 +302,9 @@ margin: 0 0 20px 0;
         margin-left: 0px;
     }
     
-    .card-text{
-    font-size: 1.4rem;
-    }
-    
     .redireccionamiento{
      min-width: 300px;
      margin-right: 160px;
-    }
-
-    .cards-title{
-     margin-left: 10px;
-    }
-
-    .cards-text{
-     margin-left: 20px;
-    }
-
-    .imagenes{
-        width: 100%;
-        margin: 0px;
-    }
-
-    .detalles{
-    margin-left: 70px;
     }
 
     .btn.btn-primary{
