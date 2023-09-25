@@ -304,6 +304,34 @@ margin: 0 0 20px 0;
         margin-left: 0px;
     }
     
+    .overlay{
+        font-size: 1rem;
+        margin-top: 60px;
+    }
+
+    .overlay p{
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 0;
+        color: black;
+        font-family: 'Josefin Sans';
+        font-weight: 300;
+    }
+
+    .overlay2{
+        font-size: 1rem;
+        margin-top: 20px;
+    }
+
+    .overlay2 p{
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-bottom: 0;
+        color: black;
+        font-family: 'Josefin Sans';
+        font-weight: 300;
+    }
+    
     .redireccionamiento{
      min-width: 300px;
      margin-right: 160px;
