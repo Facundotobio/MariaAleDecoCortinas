@@ -278,6 +278,11 @@ margin: 0 0 20px 0;
       width: 120px;
     }
 
+    .btn-info{     
+        /* width: 280px; */
+        font-size: 1rem;
+         }
+
     .seccion-oscura{
         background-color: #bdbdbd;
          color: white;
@@ -369,7 +374,7 @@ margin: 0 0 20px 0;
     }
 
     .footer-texto{
-        font-size: 1rem;
+        font-size: 1.2rem;
         margin-top: -20px;
         margin-bottom: -10px;
     }
@@ -384,7 +389,7 @@ margin: 0 0 20px 0;
     }
 
     .seccion-descripcion{
-        font-size: 0.9rem;
+        font-size: 1.2rem;
         margin-bottom: 0px;
     } 
 }
